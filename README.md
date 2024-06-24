@@ -16,4 +16,4 @@ Then I perform normalization on the data to convert all the data in range zero t
 Then I started building models I have tried many machine learning model and I choosed the one with maximum  roc auc score which is Logistic Regression model.
 Then I performed hyperparameter tuning to impove the roc auc score of model 
 Then I trained the two model for two output 
-Then finally after performing all the steps for given test data I perform the prediction tast and stored the prediction in final.csv
+Then finally after performing all the steps for given test data I performed the prediction task and stored the prediction in final.csv
